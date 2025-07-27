@@ -19,6 +19,7 @@ Each solution includes a clear explanation of the approach along with time and s
 
 | #   | Problem                              | Approaches Covered                  |
 |-----|--------------------------------------|-------------------------------------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Brute Force, Hash Map         |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Brute Force, Set, Math, XOR         |
 | ... | More problems coming soon            |                                     |
 
